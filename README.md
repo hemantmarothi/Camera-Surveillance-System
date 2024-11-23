@@ -77,13 +77,6 @@ face-surveillance-system/
 4. **Object and Face Detection**: Draws bounding boxes and labels on detected objects and recognized faces.
 5. **GUI Interaction**: Provides easy-to-use buttons for registration and surveillance control.
 
-## Demo
-
-### Face Registration
-![Face Registration Demo](https://via.placeholder.com/400x200.png?text=Demo+Image)
-
-### Surveillance Mode
-![Surveillance Mode Demo](https://via.placeholder.com/400x200.png?text=Demo+Image)
 
 ## Use Cases
 
@@ -102,7 +95,3 @@ face-surveillance-system/
 - [Ultralytics YOLO](https://github.com/ultralytics/ultralytics)
 - [Face Recognition](https://github.com/ageitgey/face_recognition)
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
